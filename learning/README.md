@@ -1,6 +1,6 @@
 # Learning TODOs
 
-- [ ] Master Excel
+- [ ] Master Excel (resources sourced for this todo and sub-todos - excel.md)
   - [ ] Intermediate Excel course
   - [ ] Advanced Excel course
   - [ ] Expert Excel course
