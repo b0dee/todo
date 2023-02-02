@@ -1,7 +1,6 @@
 # Learning TODOs
 
 - [ ] Master Excel
-  - [ ] Beginner Excel course
   - [ ] Intermediate Excel course
   - [ ] Advanced Excel course
   - [ ] Expert Excel course
