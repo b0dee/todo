@@ -13,13 +13,25 @@
     - [ ] HackTheBox
     - [ ] TryHackMe
   - [ ] Certification(s)
+    - [ ] CompTIA Security+
+    - [ ] Certified Data Privacy Solutions Engineer (CDPSE)
+    - [ ] Certified Ethical Hacker (CEH)
+    - [ ] Offensive Security Certified Professional (OSCP)
+    - [ ] Certified Information Systems Security Professional (CISSP)
+    - [ ] Certified Information Systems Auditor (CISA)
+    - [ ] Certified Information Security Manager (CISM)
+    - [ ] Global Information Assurance Certification (GIAC)
 - [ ] Infrastructure
  - [ ] General
+  - [ ] Certification(s)
+    - [ ] ITIL 4 Foundation Certification
+    - [ ] VMWARE Certified Professional - Data Center Virtualisation
   - [ ] Other (list of other things too lazy to make into neat drop downs, some certifications some software to learn etc.) 
     - [ ] Risk Management
       - [ ] Software solutions
       - [ ] Core concepts
       - [ ] Certification(s)
+        - [ ] Certified Risk and Information Systems Control (CRISC)
     - [ ] ITIL
     - [ ] NIST
   - [ ] Microsoft
@@ -35,24 +47,45 @@
     - [ ] LinkedIn Certification(s)? (They gotta have em, surely??)
   - [ ] Database Administration
     - [ ] Core concepts
+    - [ ] IBM
+      - [ ] Certification(s)
+        - [ ] IBM Certified Database Administrator
     - [ ] Microsoft SQL Server
       - [ ] Certification(s)
+        - [ ] Microsoft SQL Server Database Certification
     - [ ] MySQL
       - [ ] Certification(s)
     - [ ] Oracle
       - [ ] Certification(s)
+        - [ ] Oracle Certified Professional
     - [ ] NoSQL (this is a type term not example of one, TODO figure out which I like later)
       - [ ] Certification(s)
   - [ ] Networking
     - [ ] Certification(s)
- - [ ] Cloud
-   - [ ] Azure
-    - [ ] Azure AD
-    - [ ] Infrastructure Architecture
-    - [ ] Certification(s)
-      - [ ] Expert Azure Solutions Architect (or similar if not word-for-word)
-   - [ ] AWS
-    - [ ] Certification(s)
+      - [ ] RedHat Certified Engineer
+      - [ ] CompTIA 
+        - [ ] Network+
+      - [ ] Cisco
+        - [ ] Cisco Certified Network Expert (CCNE)
+          - [ ] Cisco Certified Network Professional (CCNP)
+            - [ ] Cisco Certified Network Associate (CCNA)
+  - [ ] Cloud
+    - [ ] Azure
+      - [ ] Azure AD
+      - [ ] Infrastructure Architecture
+      - [ ] Certification(s)
+        - [ ] Azure Solutions Architect Expert (or similar if not word-for-word)
+          - [ ] Prerequisite: Azure Administrator Associate 
+          - [ ] Exam: Designing Microsoft Azure Infrastructure Solutions 
+          - [ ] Certification
+    - [ ] AWS
+      - [ ] Certification(s)
+        - [ ] AWS Solutions Architect Professional
+        - [ ] AWS Certified Security
+        - [ ] AWS Certified Big Data
+        - [ ] AWS Certified Cloud Practitioner
+    - [ ] Google Cloud Platform
+      - [ ] Certified Professional Cloud Architect
 - [ ] Software Development
   - [ ] Core stuff
     - [ ] Data structures (multiple languages)
@@ -70,12 +103,32 @@
     - [ ] Practices
     - [ ] Concepts
     - [ ] Certification(s)
+      - [ ] Azure DevOps Solutions Certification
+      - [ ] AWS DevOps Solutions Certification
   - [ ] Git
     - [ ] Fill more out later
-
-
-
-    
-    
+  - [ ] Certification(s)
+    - [ ] Python
+    - [ ] C#
+    - [ ] C
+    - [ ] C++
+    - [ ] Python
+    - [ ] PowerShell
+    - [ ] Angular
+    - [ ] React
+    - [ ] Node
+    - [ ] HTML
+    - [ ] CSS
+    - [ ] JavaScript
+    - [ ] Shell Scripting
+- [ ] Project Management
+  - [ ] Certification(s)
+    - [ ] Project Management Professional (from Project Management Institute)
+- [ ] Artificial Intelligence
+  - [ ] Core
+  - [ ] Certification(s)
+    - [ ] IBM AI Engineering Professional Certificate
+    - [ ] Professional ML Engineer (Google)
+    - [ ] Azure AI Engineer Associate
 
 
