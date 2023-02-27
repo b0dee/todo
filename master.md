@@ -1,0 +1,168 @@
+# Master TODO
+
+## Time Management
+- Morning (06:00)
+  - Wake up: 06:30
+  - Breakfast
+  - Cigarette
+  - Brush teeth
+  - TIME SLOT (30-60 minutes)
+- Afternoon (13:00)
+  - Lunch
+  - Cigarette
+  - TIME SLOT (30-60 minutes)
+- Evening (19:00)
+  - Dinner
+  - TIME SLOT  (60-120 minutes)
+  - Brush teeth
+  - Meditate
+  - Bed Time: 22:00
+
+## TODO
+- [ ] Health
+  - [ ] Daily routine 
+    - Wake Up:  06:30 (6:30AM)
+    - Bed Time: 22:00 (10PM)
+  - [ ] Smoking Wean Off
+    - [ ] Week 1 = 8/day (2023-02-27 -> 2023-03-05)
+    - [ ] Week 2 = 7/day (2023-03-06 -> 2023-03-12)
+    - [ ] Week 3 = 6/day (2023-03-13 -> 2023-03-18)
+    - [ ] Week 4 = 5/day (2023-03-20 -> 2023-03-26)
+    - [ ] Week 5 = 4/day (2023-03-27 -> 2023-04-02)
+    - [ ] Week 6 = 3/day (2023-04-03 -> 2023-04-09)
+  - [ ] Teeth AM
+  - [ ] Eat healthier
+    - [ ] Daily fruit (aim for 5!)
+    - [ ] Actual meals 
+    - [ ] Stop snacking!
+  - [ ] Vitamins daily
+  - [ ] Teeth PM
+  - [ ] Get fit (six pack, muscly etc.)
+- [ ] Get your own place (rent)
+  - [ ] Purchase essentials
+    - [ ] Mattress
+    - [ ] Cutlery
+    - [ ] Glasses
+    - [ ] Plates & Bowls
+    - [ ] Towels 
+    - [ ] Dish towels
+    - [ ] Sharp Knives
+    - [ ] Air fryer
+    - [ ] Microwave
+    - [ ] Kettle
+    - [ ] Vacuum
+  - [ ] Create a budget 
+    - [ ] Find out how much you'll be on at first
+    - [ ] Maximum amount that can be spent on rent 
+    - [ ] Average bill costings (monthly)
+    - [ ] Additional subscriptions
+      - Hayu
+      - Discovery+
+      - Netflix (hopefully piggy back off bro)
+      - Spotify (hopefully piggy back off bro)
+      - Phones (Ruby's paid off in June, £9 for mine and will be £9 for hers after this too)
+    - [ ] Food
+    - [ ] Necessities 
+      - Toilet paper
+      - Tin foil
+      - Cellophane 
+      - Kitchen roll
+      - Dish soap
+      - Hand soap
+      - Shower gel
+      - Shampoo & Conditioner
+      - Smoke
+      - Tobacco
+  - [ ] Find a place
+    - Near-ish work (unless fully remote!)
+    - Near shops (Tesco etc.)
+    - Near park/fields
+    - Nice neighbourhood 
+    - Cheap-ish to live
+  - [ ] View place
+  - [ ] Agree and finalise
+- [ ] Get a new job
+  - [ ] Look at what areas of IT are paying high ATM expected to continue
+  - [ ] Get any credentials you are missing from spec
+  - [ ] Apply to place(s) in the meantime
+  - [ ] Post more activity online (things done, cool findings etc.)
+- [ ] Certifications
+  - [ ] Networking
+    - [ ] CompTIA Network+
+    - [ ] Cisco Certified Network Expert (CCNE)
+  - [ ] Security
+    - [ ] CompTIA Security+
+    - [ ] Certified Ethical Hacker (CEH)
+    - [ ] Offensive Security Certified Professional (OSCP)
+    - [ ] Certified Data Privacy Solutions Engineer (CDPSE)
+    - [ ] Certified Information Systems Security Professional (CISSP)
+    - [ ] Certified Information Security Manager (CISM)
+  - [ ] Cloud
+    - [ ] Azure
+      - [ ] Azure Solutions Architect Expert (or similar if not word-for-word)
+        - [ ] Prerequisite: Azure Administrator Associate 
+    - [ ] AWS
+      - [ ] Solutions Architect Professional
+    - [ ] Google
+      - [ ] Certified Professional Cloud Architect
+  - [ ] RedHat Certified Engineer
+  - [ ] ITIL 4 Foundation Certification
+
+## Back Burner
+- [ ] Personal Projects
+  - [ ] YouTube/socials
+  - [ ] Businesses
+- [ ] Learn to drive
+  - [ ] Theory
+    - [ ] Get DVLA app
+    - [ ] Learn road laws
+    - [ ] Learn road signs
+  - [ ] Practical
+    - [ ] Practice
+    - [ ] Take test
+- [ ] Certificates
+  - [ ] Networking
+    - [ ] Cisco Certified Network Professional (CCNP)
+      - [ ] Cisco Certified Network Associate (CCNA)
+  - [ ] Project Management
+    - [ ] Project Management Professional (from Project Management Institute)
+  - [ ] AI/ML
+    - [ ] Google Professional ML Engineer
+    - [ ] Azure AI Engineer Associate
+    - [ ] IBM AI Engineering Professional Certificate
+  - [ ] Security
+    - [ ] Certified Information Systems Auditor (CISA)
+    - [ ] Global Information Assurance Certification (GIAC)
+    - [ ] Certified Risk and Information Systems Control (CRISC)
+  - [ ] Database
+    - [ ] IBM Certified Database Administrator
+    - [ ] Microsoft SQL Server Database Certification
+  - [ ] Programming
+    - [ ] Python
+    - [ ] C#
+    - [ ] C
+    - [ ] C++
+    - [ ] Python
+    - [ ] PowerShell
+    - [ ] Angular
+    - [ ] React
+    - [ ] Node
+    - [ ] HTML
+    - [ ] CSS
+    - [ ] JavaScript
+    - [ ] Shell Scripting
+  - [ ] Cloud
+    - [ ] Azure
+      - [ ] DevOps Solutions Certification
+    - [ ] AWS
+      - [ ] DevOps Solutions Certification
+      - [ ] Certified Security
+      - [ ] Certified Big Data
+      - [ ] Certified Cloud Practitioner
+  - [ ] Microsoft
+  - [ ] Linux
+  - [ ] Un-grouped
+    - [ ] VMWare Certified Professional - Data Center Virtualisation
+
+
+
